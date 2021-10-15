@@ -2,10 +2,11 @@
 
 `pwr` is Pull Requests Workflow on the command line. It brings OPEN, CLOSED,MERGED and other PR concepts to the terminal next to where you are already working with `git` and your code.
 
-![Screenshot](https://user-images.githubusercontent.com/54519734/112385486-aeb72580-8d15-11eb-9e8d-509ce180a573.png)
+
+![Screenshot](https://i.imgur.com/wdRz0nL.png)
 
 
-`prw` is available for repositories hosted on GitHub.com, and to install on macOS, Windows, and Linux.
+prw is available for repositories hosted on GitHub.com, and to install on macOS, Windows, and Linux.
 
 ## Contributing
 
